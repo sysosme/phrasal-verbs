@@ -3,7 +3,7 @@ import { MyComposition } from './Composition';
 import { Sample } from './Word/Sample';
 import './style.css';
 
-const fps = 30;
+const fps = 60;
 // the audio duration is 58seconds + 4 frames
 const durationInFrames = fps * 200 + 4;
 
